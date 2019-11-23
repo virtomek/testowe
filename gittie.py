@@ -6,3 +6,7 @@ def joke(
     print('haha')
 
 tekststs
+
+
+def add():
+	print('hello') 

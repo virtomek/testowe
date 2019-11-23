@@ -5,5 +5,4 @@ print_msg()
 def joke(
     print('haha')
 
-
-    
+tekststs

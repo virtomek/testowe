@@ -10,3 +10,6 @@ tekststs
 
 def add():
 	print('hello') 
+
+
+def kolkokl
